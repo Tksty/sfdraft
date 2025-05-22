@@ -53,9 +53,9 @@
 		<prefabFps>AK74_1</prefabFps>
 		<prefabTps>AK74</prefabTps>
 		<image>AK74</image>
-		<drawSound></drawSound>
-		<fireSound></fireSound>
-		<reloadSound></reloadSound>
+		<drawSound>SF_S_G_ak74_A</drawSound>
+		<fireSound>SF_S_G_ak74_F</fireSound>
+		<reloadSound>SF_S_G_ak74_R</reloadSound>
 		
 		<scope>true</scope>
 		<muzzle>true</muzzle>
@@ -87,9 +87,9 @@
 		<prefabFps>M4A1_1</prefabFps>
 		<prefabTps>M4A1</prefabTps>
 		<image>M4A1</image>
-		<drawSound></drawSound>
-		<fireSound></fireSound>
-		<reloadSound></reloadSound>
+		<drawSound>SF_S_G_M4_A</drawSound>
+		<fireSound>SF_S_G_M4_F</fireSound>
+		<reloadSound>SF_S_G_M4_R</reloadSound>
 		<scope>true</scope>
 		<muzzle>true</muzzle>
 		<handle>true</handle>
@@ -112,7 +112,7 @@
 		<reloadSpeed>3.5</reloadSpeed>
 		<playerSpeed>6</playerSpeed>
 		<fireVelocity>12</fireVelocity>
-		<maxMagazineAmount>30</maxMagazineAmount>
+		<maxMagazineAmount>5</maxMagazineAmount>
 		<maxBulletAmount>120</maxBulletAmount>
 		<penetration>10</penetration>
 		<explosionRange>0</explosionRange>
@@ -120,9 +120,9 @@
 		<prefabFps>PSG-1_1</prefabFps>
 		<prefabTps>PSG-1</prefabTps>
 		<image>PSG-1</image>
-		<drawSound></drawSound>
-		<fireSound></fireSound>
-		<reloadSound></reloadSound>
+		<drawSound>SF_S_G_PSG1_A</drawSound>
+		<fireSound>SF_S_G_PSG1_F</fireSound>
+		<reloadSound>SF_S_G_PSG1_R</reloadSound>
 		<scope>true</scope>
 		<muzzle>true</muzzle>
 		<handle>true</handle>
