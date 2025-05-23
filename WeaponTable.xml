@@ -54,7 +54,7 @@
 		<prefabTps>AK74</prefabTps>
 		<image>AK74</image>
 		<drawSound>SF_S_G_ak74_A</drawSound>
-		<fireSound>SF_S_G_ak74_F</fireSound>
+		<fireSound>SF_S_G_aK74_F</fireSound>
 		<reloadSound>SF_S_G_ak74_R</reloadSound>
 		
 		<scope>true</scope>
